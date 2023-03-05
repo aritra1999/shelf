@@ -72,7 +72,7 @@
   {
     "id": 1,
     "title": "add new entry",
-    "path": "add-new-entry",
+    "path": "addNewEntry",
     "type": "application"
   }
 ]
