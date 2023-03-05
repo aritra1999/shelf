@@ -70,9 +70,17 @@
     "type": "game"
   },
   {
-    "id": 1,
+    "id": 11,
     "title": "add new entry",
     "path": "addNewEntry",
     "type": "application"
+  },
+  {
+    "id": 12,
+    "title": "Designing a Video Streaming Platform 📹",
+    "type": "blog"
+    "description": "High level system design blog on designing a video streaming platform"
+    "tags": ["systems", "architecture", "blog"],
+    "path": "video-streaming-service",
   }
 ]
