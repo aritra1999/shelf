@@ -78,9 +78,9 @@
   {
     "id": 12,
     "title": "Designing a Video Streaming Platform 📹",
-    "type": "blog"
-    "description": "High level system design blog on designing a video streaming platform"
+    "type": "blog",
+    "description": "High level system design blog on designing a video streaming platform",
     "tags": ["systems", "architecture", "blog"],
-    "path": "video-streaming-service",
+    "path": "video-streaming-service"
   }
 ]
