@@ -82,5 +82,12 @@
     "description": "High level system design blog on designing a video streaming platform",
     "tags": ["systems", "architecture", "blog"],
     "path": "video-streaming-service"
-  }
+  }, 
+  {
+    "id": 12,
+    "title": "Design Systems",
+    "type": "gist",
+    "tags": ["design system", "ui"],
+    "path": "https://gist.githubusercontent.com/aritra1999/d9a138d5b5c22aa29c01f34db4fa6ccf/raw/dd36d714ac2e219d71b16af660c2a02d28ba5c7b/gistfile1.md"
+  }   
 ]
