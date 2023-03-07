@@ -8,38 +8,6 @@
     "tags": ["Portfolio Site", "SvelteKit"]
   },
   {
-    "id": 2,
-    "title": "Carbon",
-    "type": "link",
-    "path": "https://carbondesignsystem.com/",
-    "icon": "https://carbondesignsystem.com/favicon-32x32.png",
-    "tags": ["Design System", "IBM"]
-  },
-  {
-    "id": 3,
-    "title": "Carbon Svelte",
-    "type": "link",
-    "path": "https://carbon-components-svelte.onrender.com/",
-    "icon": "https://carbon-components-svelte.onrender.com/favicon.ico",
-    "tags": ["Design System", "SvelteKit", "IBM"]
-  },
-  {
-    "id": 4,
-    "title": "FlowBite",
-    "type": "link",
-    "path": "https://flowbite.com",
-    "icon": "https://flowbite.com/images/logo.svg",
-    "tags": ["Component Library", "Tailwind"]
-  },
-  {
-    "id": 5,
-    "title": "Tailwind",
-    "type": "link",
-    "path": "https://tailwindcss.com",
-    "icon": "https://tailwindcss.com/favicons/favicon-32x32.png?v=3",
-    "tags": ["CSS Framework"]
-  },
-  {
     "id": 6,
     "title": "BASE64 Encoder",
     "type": "application",
@@ -80,7 +48,7 @@
     "title": "Designing a Video Streaming Platform 📹",
     "type": "blog",
     "description": "High level system design blog on designing a video streaming platform",
-    "tags": ["systems", "architecture", "blog"],
+    "tags": ["systems", "architecture"],
     "path": "video-streaming-service"
   }, 
   {
