@@ -1,77 +1,90 @@
-[
-  {
-    "id": 1,
-    "title": "AboutMe",
-    "type": "link",
-    "path": "https://aritra1999.github.io",
-    "icon": "https://github.githubassets.com/favicons/favicon.png",
-    "tags": ["Portfolio Site", "SvelteKit"]
-  },
-  {
-    "id": 14,
-    "title": "Tools & Themes 🛠️",
-    "type": "gist",
-    "tags": ["tools", "themes"],
-    "path": "https://gist.githubusercontent.com/aritra1999/03356194c26c767b3a397b28753fa51d/raw/Tools%2520and%2520Themes"
-  },
-  {
-    "id": 6,
-    "title": "BASE64 Encoder",
-    "type": "application",
-    "path": "base64Encoder"
-  },
-  {
-    "id": 7,
-    "title": "BASE64 Decoder",
-    "path": "base64Decoder",
-    "type": "application"
-  },
-  
-  {
-    "id": 11,
-    "title": "add new entry",
-    "path": "addNewEntry",
-    "type": "application"
-  },
-  {
-    "id": 12,
-    "title": "Designing a Video Streaming Platform 📹",
-    "type": "blog",
-    "description": "High level system design blog on designing a video streaming platform",
-    "tags": ["systems", "architecture"],
-    "path": "aritra1999/blogs/master/video-streaming-service/README.md"
-  }, 
-  {
-    "id": 13,
-    "title": "Design Systems",
-    "type": "gist",
-    "tags": ["design system", "ui"],
-    "path": "https://gist.githubusercontent.com/aritra1999/d9a138d5b5c22aa29c01f34db4fa6ccf/raw/gistfile1.md"
-  },
-  {
-    "id": 8,
-    "title": "Relocation 🇩🇪",
-    "path": "relocation-germany",
-    "type": "application"
-  },
-  {
-    "id": 9,
-    "title": "Exchange 💰",
-    "path": "exchange",
-    "type": "application"
-  },
-  {
-    "id": 10,
-    "title": "Tic Tac Toe",
-    "path": "ticTacToe",
-    "type": "game"
-  },
-  {
-    "id": 15,
-    "title": "How to get into software by @npmaile",
-    "type": "blog",
-    "description": "I end up talking to a lot of people about how to get into software development, so I am creating this guide. By @npmaile",
-    "tags": ["software engineering", "getting started"],
-    "path": "npmaile/blog/main/posts/2.%20How%20to%20get%20into%20software.md"
-  }
+[{
+		"id": "fc982eca-48b3-42a5-a626-68e405e12a0e",
+		"title": "AboutMe",
+		"type": "link",
+		"path": "https://aritra1999.github.io",
+		"icon": "https://github.githubassets.com/favicons/favicon.png",
+		"tags": [
+			"Portfolio Site",
+			"SvelteKit"
+		]
+	},
+	{
+		"id": "dd3a7a94-dbe4-43fb-8d65-b6469edf0166",
+		"title": "Tools & Themes 🛠️",
+		"type": "gist",
+		"tags": [
+			"tools",
+			"themes"
+		],
+		"path": "https://gist.githubusercontent.com/aritra1999/03356194c26c767b3a397b28753fa51d/raw/Tools%2520and%2520Themes"
+	},
+	{
+		"id": "b715e868-89ca-432e-961e-ec036bf4fd72",
+		"title": "BASE64 Encoder",
+		"type": "application",
+		"path": "base64Encoder"
+	},
+	{
+		"id": "e1b696f8-975d-4b71-97a6-06c72f9a3cba",
+		"title": "BASE64 Decoder",
+		"path": "base64Decoder",
+		"type": "application"
+	},
+	{
+		"id": "b6741ab2-0538-4fd4-d988-c1038b11a86f",
+		"title": "add new entry",
+		"path": "addNewEntry",
+		"type": "application"
+	},
+	{
+		"id": "c63da8b5-af6a-477f-b0a3-187438f91a1f",
+		"title": "Designing a Video Streaming Platform 📹",
+		"type": "blog",
+		"description": "High level system design blog on designing a video streaming platform",
+		"tags": [
+			"systems",
+			"architecture"
+		],
+		"path": "aritra1999/blogs/master/video-streaming-service/README.md"
+	},
+	{
+		"id": "58293684-3f9d-4cc2-ce63-7329c5287ea2",
+		"title": "Design Systems",
+		"type": "gist",
+		"tags": [
+			"design system",
+			"ui"
+		],
+		"path": "https://gist.githubusercontent.com/aritra1999/d9a138d5b5c22aa29c01f34db4fa6ccf/raw/gistfile1.md"
+	},
+	{
+		"id": "8ff8fe1e-4d46-41dc-9da1-395a2c95d487",
+		"title": "Relocation 🇩🇪",
+		"path": "relocation-germany",
+		"type": "application"
+	},
+	{
+		"id": "a9c651ba-175c-4bc9-9637-4ba19ad1d202",
+		"title": "Exchange 💰",
+		"path": "exchange",
+		"type": "application"
+	},
+	{
+		"id": "1f2bc257-60f5-46b2-bbf2-cf472be71f55",
+		"title": "Tic Tac Toe",
+		"path": "ticTacToe",
+		"type": "game"
+	},
+	{
+		"id": "b2ff5b18-0bfc-46c1-a9d3-743669754766",
+		"title": "How to get into software by @npmaile",
+		"type": "blog",
+		"description": "I end up talking to a lot of people about how to get into software development, so I am creating this guide. By @npmaile",
+		"tags": [
+			"software engineering",
+			"getting started"
+		],
+		"path": "npmaile/blog/main/posts/2.%20How%20to%20get%20into%20software.md"
+	}
 ]
