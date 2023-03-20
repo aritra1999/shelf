@@ -52,10 +52,18 @@
     "path": "video-streaming-service"
   }, 
   {
-    "id": 12,
+    "id": 13,
     "title": "Design Systems",
     "type": "gist",
     "tags": ["design system", "ui"],
     "path": "https://gist.githubusercontent.com/aritra1999/d9a138d5b5c22aa29c01f34db4fa6ccf/raw/gistfile1.md"
-  }   
+  },
+  {
+    "id": 14,
+    "title": "Tools & Themes 🛠️",
+    "type": "gist",
+    "tags": ["tools", "themes"],
+    "path": "https://gist.githubusercontent.com/aritra1999/03356194c26c767b3a397b28753fa51d/raw/Tools%2520and%2520Themes"
+  },
+  
 ]
