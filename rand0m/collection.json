@@ -49,7 +49,7 @@
     "type": "blog",
     "description": "High level system design blog on designing a video streaming platform",
     "tags": ["systems", "architecture"],
-    "path": "video-streaming-service"
+    "path": "aritra1999/blogs/master/video-streaming-service/README.md"
   }, 
   {
     "id": 13,
@@ -65,5 +65,12 @@
     "tags": ["tools", "themes"],
     "path": "https://gist.githubusercontent.com/aritra1999/03356194c26c767b3a397b28753fa51d/raw/Tools%2520and%2520Themes"
   },
-  
+  {
+    "id": 15,
+    "title": "How to get into software by @npmaile",
+    "type": "blog",
+    "description": "I end up talking to a lot of people about how to get into software development, so I am creating this guide. By @npmaile",
+    "tags": ["software engineering", "getting started"],
+    "path": "npmaile/blog/main/posts/2.%20How%20to%20get%20into%20software.md"
+  }, 
 ]
