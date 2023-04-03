@@ -50,16 +50,6 @@
     "path": "aritra1999/blogs/master/video-streaming-service/README.md"
   },
   {
-    "id": "58293684-3f9d-4cc2-ce63-7329c5287ea2",
-    "title": "Design Systems",
-    "type": "gist",
-    "tags": [
-      "design system",
-      "ui"
-    ],
-    "path": "https://gist.githubusercontent.com/aritra1999/d9a138d5b5c22aa29c01f34db4fa6ccf/raw/gistfile1.md"
-  },
-  {
     "id": "8ff8fe1e-4d46-41dc-9da1-395a2c95d487",
     "title": "Relocation 🇩🇪",
     "path": "relocation-germany",
@@ -131,6 +121,29 @@
         "title": "Atlassian Desgin System",
         "link": "https://atlassian.design/",
         "logo": "https://atlassian.design/icons/icon-72x72.png?v=1a6878bd61904a7e0f2b06933be8d723"
+      }
+    ]
+  },
+  {
+    "id": "2cedbd93-69bd-4b4e-95a0-f7adca5e0f11",
+    "title": "Blogs",
+    "type": "linkList",
+    "tags": ["system-design", "programming", "roadmap", "cheatsheet"],
+    "links": [
+      {
+        "title": "Cs.fyi",
+        "link": "https://cs.fyi/",
+        "logo": "https://cs.fyi/manifest/icon32.png"
+      },
+      {
+        "title": "Roadmap.sh",
+        "link": "https://roadmap.sh/",
+        "logo": "https://roadmap.sh/manifest/icon32.png"
+      },
+      {
+        "title": "Arpit Bhayani",
+        "link": "https://arpitbhayani.me/",
+        "logo": "📄"
       }
     ]
   }
