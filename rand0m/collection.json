@@ -87,5 +87,51 @@
       "getting started"
     ],
     "path": "npmaile/blog/main/posts/2.%20How%20to%20get%20into%20software.md"
+  },
+  {
+    "id": "bfb38b9d-0bc4-4053-845d-313db265e5f2",
+    "title": "Design Systems / CSS Libraries",
+    "type": "linkList",
+    "tags": [
+      "design system",
+      "ui"
+    ],
+    "links": [
+      {
+        "title": "Flowbite",
+        "link": "https://flowbite.com/",
+        "logo": "https://flowbite.com/images/logo.svg"
+      },
+      {
+        "title": "TailwindCSS",
+        "link": "https://tailwindcss.com/",
+        "logo": "https://tailwindcss.com/favicons/favicon-32x32.png?v=3"
+      },
+      {
+        "title": "IBM Carbon",
+        "link": "https://carbondesignsystem.com/",
+        "logo": "https://carbondesignsystem.com/favicon-32x32.png"
+      },
+      {
+        "title": "IBM Carbon-svelte",
+        "link": "https://carbon-components-svelte.onrender.com/",
+        "logo": "https://carbon-components-svelte.onrender.com/favicon.ico"
+      },
+      {
+        "title": "PicoCSS",
+        "link": "https://picocss.com/",
+        "logo": "https://picocss.com/favicon.ico"
+      },
+      {
+        "title": "Github Primer",
+        "link": "https://primer.style/",
+        "logo": "https://primer.style/icons/icon-72x72.png"
+      },
+      {
+        "title": "Atlassian Desgin System",
+        "link": "https://atlassian.design/",
+        "logo": "https://atlassian.design/icons/icon-72x72.png?v=1a6878bd61904a7e0f2b06933be8d723"
+      }
+    ]
   }
 ]
