@@ -128,7 +128,12 @@
     "id": "2cedbd93-69bd-4b4e-95a0-f7adca5e0f11",
     "title": "Blogs",
     "type": "linkList",
-    "tags": ["system-design", "programming", "roadmap", "cheatsheet"],
+    "tags": [
+      "system-design",
+      "programming",
+      "roadmap",
+      "cheatsheet"
+    ],
     "links": [
       {
         "title": "Cs.fyi",
@@ -145,5 +150,13 @@
         "link": "https://arpitbhayani.me/"
       }
     ]
+  },
+  {
+    "id": "1614058d-2fe7-4730-cbcd-f6e3f416f63d",
+    "title": "Markdown Editor",
+    "description": "",
+    "tags": ["markdown"],
+    "path": "markdownEditor",
+    "type": "application"
   }
 ]
