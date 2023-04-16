@@ -1,24 +1,41 @@
 [
   {
-    "id": "dd3a7a94-dbe4-43fb-8d65-b6469edf0166",
-    "title": "Tools & Themes 🛠️",
-    "type": "gist",
+    "id": "1614058d-2fe7-4730-cbcd-f6e3f416f63d",
+    "title": "Markdown Editor",
+    "description": "",
     "tags": [
-      "tools",
-      "themes"
+      "markdown"
     ],
-    "path": "https://gist.githubusercontent.com/aritra1999/03356194c26c767b3a397b28753fa51d/raw/Tools%2520and%2520Themes"
+    "icon": "👨‍💻",
+    "path": "markdownEditor",
+    "type": "application"
   },
   {
-    "id": "e1b696f8-975d-4b71-97a6-06c72f9a3cba",
-    "title": "BASE64 Encoder / Decoder",
-    "path": "base64EncoderDecoder",
+    "id": "a9c651ba-175c-4bc9-9637-4ba19ad1d202",
+    "title": "Exchange",
+    "path": "exchange",
+    "icon": "💰",
+    "type": "application"
+  },
+  {
+    "id": "8ff8fe1e-4d46-41dc-9da1-395a2c95d487",
+    "title": "Relocation",
+    "icon": "🇩🇪",
+    "path": "relocation-germany",
     "type": "application"
   },
   {
     "id": "b6741ab2-0538-4fd4-d988-c1038b11a86f",
     "title": "add new entry",
+    "icon": "➕",
     "path": "addNewEntry",
+    "type": "application"
+  },
+  {
+    "id": "e1b696f8-975d-4b71-97a6-06c72f9a3cba",
+    "title": "BASE64 Encoder / Decoder",
+    "path": "base64EncoderDecoder",
+    "icon": "📟",
     "type": "application"
   },
   {
@@ -33,24 +50,6 @@
     "path": "aritra1999/blogs/master/video-streaming-service/README.md"
   },
   {
-    "id": "8ff8fe1e-4d46-41dc-9da1-395a2c95d487",
-    "title": "Relocation 🇩🇪",
-    "path": "relocation-germany",
-    "type": "application"
-  },
-  {
-    "id": "a9c651ba-175c-4bc9-9637-4ba19ad1d202",
-    "title": "Exchange 💰",
-    "path": "exchange",
-    "type": "application"
-  },
-  {
-    "id": "1f2bc257-60f5-46b2-bbf2-cf472be71f55",
-    "title": "Tic Tac Toe",
-    "path": "ticTacToe",
-    "type": "game"
-  },
-  {
     "id": "b2ff5b18-0bfc-46c1-a9d3-743669754766",
     "title": "How to get into software by @npmaile",
     "type": "blog",
@@ -60,6 +59,41 @@
       "getting started"
     ],
     "path": "npmaile/blog/main/posts/2.%20How%20to%20get%20into%20software.md"
+  },
+  {
+    "id": "ea4b8a3e-48f3-461b-9e30-457828ab38d5",
+    "title": "",
+    "description": "",
+    "tags": [],
+    "path": "",
+    "type": "blog"
+  },
+  {
+    "id": "1f2bc257-60f5-46b2-bbf2-cf472be71f55",
+    "title": "Tic Tac Toe",
+    "path": "ticTacToe",
+    "type": "game"
+  },
+  {
+    "id": "dd3a7a94-dbe4-43fb-8d65-b6469edf0166",
+    "title": "Tools & Themes 🛠️",
+    "type": "gist",
+    "tags": [
+      "tools",
+      "themes"
+    ],
+    "path": "https://gist.githubusercontent.com/aritra1999/03356194c26c767b3a397b28753fa51d/raw/Tools%2520and%2520Themes"
+  },
+  {
+    "id": "fc982eca-48b3-42a5-a626-68e405e12a0e",
+    "title": "AboutMe",
+    "type": "link",
+    "path": "https://aritra1999.github.io",
+    "icon": "https://github.githubassets.com/favicons/favicon.png",
+    "tags": [
+      "Portfolio Site",
+      "SvelteKit"
+    ]
   },
   {
     "id": "bfb38b9d-0bc4-4053-845d-313db265e5f2",
@@ -132,25 +166,6 @@
         "title": "Arpit Bhayani",
         "link": "https://arpitbhayani.me/"
       }
-    ]
-  },
-  {
-    "id": "1614058d-2fe7-4730-cbcd-f6e3f416f63d",
-    "title": "Markdown Editor",
-    "description": "",
-    "tags": ["markdown"],
-    "path": "markdownEditor",
-    "type": "application"
-  },
-  {
-    "id": "fc982eca-48b3-42a5-a626-68e405e12a0e",
-    "title": "AboutMe",
-    "type": "link",
-    "path": "https://aritra1999.github.io",
-    "icon": "https://github.githubassets.com/favicons/favicon.png",
-    "tags": [
-      "Portfolio Site",
-      "SvelteKit"
     ]
   }
 ]
