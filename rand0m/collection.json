@@ -1,16 +1,5 @@
 [
   {
-    "id": "fc982eca-48b3-42a5-a626-68e405e12a0e",
-    "title": "AboutMe",
-    "type": "link",
-    "path": "https://aritra1999.github.io",
-    "icon": "https://github.githubassets.com/favicons/favicon.png",
-    "tags": [
-      "Portfolio Site",
-      "SvelteKit"
-    ]
-  },
-  {
     "id": "dd3a7a94-dbe4-43fb-8d65-b6469edf0166",
     "title": "Tools & Themes 🛠️",
     "type": "gist",
@@ -21,15 +10,9 @@
     "path": "https://gist.githubusercontent.com/aritra1999/03356194c26c767b3a397b28753fa51d/raw/Tools%2520and%2520Themes"
   },
   {
-    "id": "b715e868-89ca-432e-961e-ec036bf4fd72",
-    "title": "BASE64 Encoder",
-    "type": "application",
-    "path": "base64Encoder"
-  },
-  {
     "id": "e1b696f8-975d-4b71-97a6-06c72f9a3cba",
-    "title": "BASE64 Decoder",
-    "path": "base64Decoder",
+    "title": "BASE64 Encoder / Decoder",
+    "path": "base64EncoderDecoder",
     "type": "application"
   },
   {
@@ -158,5 +141,16 @@
     "tags": ["markdown"],
     "path": "markdownEditor",
     "type": "application"
+  },
+  {
+    "id": "fc982eca-48b3-42a5-a626-68e405e12a0e",
+    "title": "AboutMe",
+    "type": "link",
+    "path": "https://aritra1999.github.io",
+    "icon": "https://github.githubassets.com/favicons/favicon.png",
+    "tags": [
+      "Portfolio Site",
+      "SvelteKit"
+    ]
   }
 ]
