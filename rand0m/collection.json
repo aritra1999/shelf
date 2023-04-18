@@ -61,14 +61,6 @@
     "path": "npmaile/blog/main/posts/2.%20How%20to%20get%20into%20software.md"
   },
   {
-    "id": "ea4b8a3e-48f3-461b-9e30-457828ab38d5",
-    "title": "",
-    "description": "",
-    "tags": [],
-    "path": "",
-    "type": "blog"
-  },
-  {
     "id": "1f2bc257-60f5-46b2-bbf2-cf472be71f55",
     "title": "Tic Tac Toe",
     "path": "ticTacToe",
