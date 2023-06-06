@@ -157,6 +157,11 @@
       {
         "title": "Arpit Bhayani",
         "link": "https://arpitbhayani.me/"
+      },
+      {
+        "title": "InDepth Dev - Angular",
+        "link": "https://indepth.dev/",
+        "logo": "https://indepth.dev/favicon.png"
       }
     ]
   }
