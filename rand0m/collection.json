@@ -164,5 +164,21 @@
         "logo": "https://indepth.dev/favicon.png"
       }
     ]
+  },
+  {
+    "id": "344e7750-6343-48e6-97e3-45345747681e",
+    "title": "Developer Portfolios",
+    "tags": [],
+    "type": "linkList",
+    "links": [
+      {
+        "title": "sancho.dev",
+        "link": "https://sancho.dev/"
+      },
+      {
+        "title": "maximeheckel.com",
+        "link": "https://maximeheckel.com/"
+      }
+    ]
   }
 ]
