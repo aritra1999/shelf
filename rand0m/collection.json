@@ -180,5 +180,29 @@
         "link": "https://maximeheckel.com/"
       }
     ]
+  },
+  {
+    "id": "ac150549-87c1-4401-ba34-a9bf77650946",
+    "title": "Deployment Resources",
+    "description": "Platforms that can be used for deploying or hosting projects that I personally use.",
+    "tags": ["Deployment", "Cloud"],
+    "type": "linkList",
+    "links": [
+      {
+        "title": "Vercel",
+        "link": "https://vercel.com/",
+        "logo": "https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"
+      },
+      {
+        "title": "Supabase",
+        "link": "https://supabase.com/",
+        "logo": "https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=128&q=75"
+      },
+      {
+        "title": "Pocketbase",
+        "link": "https://pocketbase.io/",
+        "logo": "https://pocketbase.io/images/logo.svg"
+      }
+    ]
   }
 ]
