@@ -185,7 +185,10 @@
     "id": "ac150549-87c1-4401-ba34-a9bf77650946",
     "title": "Deployment Resources",
     "description": "Platforms that can be used for deploying or hosting projects that I personally use.",
-    "tags": ["Deployment", "Cloud"],
+    "tags": [
+      "Deployment",
+      "Cloud"
+    ],
     "type": "linkList",
     "links": [
       {
@@ -204,5 +207,21 @@
         "logo": "https://pocketbase.io/images/logo.svg"
       }
     ]
+  },
+  {
+    "id": "36b3e002-eb75-450b-bdde-8c0c53bcd963",
+    "title": "Fancy Dev Tools",
+    "description": "Collection of dev tools",
+    "tags": [
+      "tools"
+    ],
+    "links": [
+      {
+        "title": "Locust",
+        "link": "https://locust.io/",
+        "logo": "https://avatars.githubusercontent.com/u/2641063?s=48&v=4"
+      }
+    ],
+    "type": "linkList"
   }
 ]
